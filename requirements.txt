@@ -1,0 +1,6 @@
+numpy
+flask
+plotly
+numpy
+# Add other dependencies as needed
+
